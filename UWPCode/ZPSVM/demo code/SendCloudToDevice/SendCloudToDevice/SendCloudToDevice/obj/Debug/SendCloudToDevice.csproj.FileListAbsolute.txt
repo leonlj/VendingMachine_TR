@@ -1,0 +1,73 @@
+D:\Azure\Lego Project\IoT Hub\SendCloudToDevice\SendCloudToDevice\bin\Debug\SendCloudToDevice.exe.config
+D:\Azure\Lego Project\IoT Hub\SendCloudToDevice\SendCloudToDevice\bin\Debug\SendCloudToDevice.exe
+D:\Azure\Lego Project\IoT Hub\SendCloudToDevice\SendCloudToDevice\bin\Debug\SendCloudToDevice.pdb
+D:\Azure\Lego Project\IoT Hub\SendCloudToDevice\SendCloudToDevice\bin\Debug\Microsoft.Azure.Amqp.dll
+D:\Azure\Lego Project\IoT Hub\SendCloudToDevice\SendCloudToDevice\bin\Debug\Microsoft.Azure.Devices.dll
+D:\Azure\Lego Project\IoT Hub\SendCloudToDevice\SendCloudToDevice\bin\Debug\Newtonsoft.Json.dll
+D:\Azure\Lego Project\IoT Hub\SendCloudToDevice\SendCloudToDevice\bin\Debug\System.Net.Http.Formatting.dll
+D:\Azure\Lego Project\IoT Hub\SendCloudToDevice\SendCloudToDevice\bin\Debug\System.Web.Http.dll
+D:\Azure\Lego Project\IoT Hub\SendCloudToDevice\SendCloudToDevice\bin\Debug\Microsoft.Azure.Amqp.pdb
+D:\Azure\Lego Project\IoT Hub\SendCloudToDevice\SendCloudToDevice\bin\Debug\Microsoft.Azure.Amqp.xml
+D:\Azure\Lego Project\IoT Hub\SendCloudToDevice\SendCloudToDevice\bin\Debug\Microsoft.Azure.Devices.pdb
+D:\Azure\Lego Project\IoT Hub\SendCloudToDevice\SendCloudToDevice\bin\Debug\Microsoft.Azure.Devices.xml
+D:\Azure\Lego Project\IoT Hub\SendCloudToDevice\SendCloudToDevice\bin\Debug\Newtonsoft.Json.xml
+D:\Azure\Lego Project\IoT Hub\SendCloudToDevice\SendCloudToDevice\bin\Debug\System.Net.Http.Formatting.xml
+D:\Azure\Lego Project\IoT Hub\SendCloudToDevice\SendCloudToDevice\bin\Debug\System.Web.Http.xml
+D:\Azure\Lego Project\IoT Hub\SendCloudToDevice\SendCloudToDevice\obj\Debug\SendCloudToDevice.csprojResolveAssemblyReference.cache
+D:\Azure\Lego Project\IoT Hub\SendCloudToDevice\SendCloudToDevice\obj\Debug\SendCloudToDevice.exe
+D:\Azure\Lego Project\IoT Hub\SendCloudToDevice\SendCloudToDevice\obj\Debug\SendCloudToDevice.pdb
+D:\Lego_Project\IoT Hub\SendCloudToDevice\SendCloudToDevice\bin\Debug\SendCloudToDevice.exe.config
+D:\Lego_Project\IoT Hub\SendCloudToDevice\SendCloudToDevice\obj\Debug\SendCloudToDevice.exe
+D:\Lego_Project\IoT Hub\SendCloudToDevice\SendCloudToDevice\obj\Debug\SendCloudToDevice.pdb
+D:\Case\Lit\我的部分\SendCloudToDevice\SendCloudToDevice\bin\Debug\SendCloudToDevice.exe.config
+D:\Case\Lit\我的部分\SendCloudToDevice\SendCloudToDevice\obj\Debug\SendCloudToDevice.exe
+D:\Case\Lit\我的部分\SendCloudToDevice\SendCloudToDevice\obj\Debug\SendCloudToDevice.pdb
+D:\Case\Lit\我的部分\SendCloudToDevice\SendCloudToDevice\bin\Debug\SendCloudToDevice.exe
+D:\Case\Lit\我的部分\SendCloudToDevice\SendCloudToDevice\bin\Debug\SendCloudToDevice.pdb
+D:\Case\Lit\我的部分\SendCloudToDevice\SendCloudToDevice\bin\Debug\Microsoft.Azure.Amqp.dll
+D:\Case\Lit\我的部分\SendCloudToDevice\SendCloudToDevice\bin\Debug\Microsoft.Azure.Devices.dll
+D:\Case\Lit\我的部分\SendCloudToDevice\SendCloudToDevice\bin\Debug\Newtonsoft.Json.dll
+D:\Case\Lit\我的部分\SendCloudToDevice\SendCloudToDevice\bin\Debug\System.Net.Http.Formatting.dll
+D:\Case\Lit\我的部分\SendCloudToDevice\SendCloudToDevice\bin\Debug\System.Web.Http.dll
+D:\Case\Lit\我的部分\SendCloudToDevice\SendCloudToDevice\bin\Debug\Microsoft.Azure.Amqp.pdb
+D:\Case\Lit\我的部分\SendCloudToDevice\SendCloudToDevice\bin\Debug\Microsoft.Azure.Amqp.xml
+D:\Case\Lit\我的部分\SendCloudToDevice\SendCloudToDevice\bin\Debug\Microsoft.Azure.Devices.pdb
+D:\Case\Lit\我的部分\SendCloudToDevice\SendCloudToDevice\bin\Debug\Microsoft.Azure.Devices.xml
+D:\Case\Lit\我的部分\SendCloudToDevice\SendCloudToDevice\bin\Debug\Newtonsoft.Json.xml
+D:\Case\Lit\我的部分\SendCloudToDevice\SendCloudToDevice\bin\Debug\System.Net.Http.Formatting.xml
+D:\Case\Lit\我的部分\SendCloudToDevice\SendCloudToDevice\bin\Debug\System.Web.Http.xml
+D:\Case\Lit\我的部分\SendCloudToDevice\SendCloudToDevice\obj\Debug\SendCloudToDevice.csprojResolveAssemblyReference.cache
+D:\IoT\ZPSVM\SendCloudToDevice\SendCloudToDevice\SendCloudToDevice\bin\Debug\SendCloudToDevice.exe.config
+D:\IoT\ZPSVM\SendCloudToDevice\SendCloudToDevice\SendCloudToDevice\obj\Debug\SendCloudToDevice.exe
+D:\IoT\ZPSVM\SendCloudToDevice\SendCloudToDevice\SendCloudToDevice\obj\Debug\SendCloudToDevice.pdb
+D:\IoT\ZPSVM\SendCloudToDevice\SendCloudToDevice\SendCloudToDevice\bin\Debug\SendCloudToDevice.exe
+D:\IoT\ZPSVM\SendCloudToDevice\SendCloudToDevice\SendCloudToDevice\bin\Debug\SendCloudToDevice.pdb
+D:\IoT\ZPSVM\SendCloudToDevice\SendCloudToDevice\SendCloudToDevice\bin\Debug\Microsoft.Azure.Amqp.dll
+D:\IoT\ZPSVM\SendCloudToDevice\SendCloudToDevice\SendCloudToDevice\bin\Debug\Microsoft.Azure.Devices.dll
+D:\IoT\ZPSVM\SendCloudToDevice\SendCloudToDevice\SendCloudToDevice\bin\Debug\Newtonsoft.Json.dll
+D:\IoT\ZPSVM\SendCloudToDevice\SendCloudToDevice\SendCloudToDevice\bin\Debug\System.Net.Http.Formatting.dll
+D:\IoT\ZPSVM\SendCloudToDevice\SendCloudToDevice\SendCloudToDevice\bin\Debug\System.Web.Http.dll
+D:\IoT\ZPSVM\SendCloudToDevice\SendCloudToDevice\SendCloudToDevice\bin\Debug\Microsoft.Azure.Amqp.pdb
+D:\IoT\ZPSVM\SendCloudToDevice\SendCloudToDevice\SendCloudToDevice\bin\Debug\Microsoft.Azure.Amqp.xml
+D:\IoT\ZPSVM\SendCloudToDevice\SendCloudToDevice\SendCloudToDevice\bin\Debug\Microsoft.Azure.Devices.pdb
+D:\IoT\ZPSVM\SendCloudToDevice\SendCloudToDevice\SendCloudToDevice\bin\Debug\Microsoft.Azure.Devices.xml
+D:\IoT\ZPSVM\SendCloudToDevice\SendCloudToDevice\SendCloudToDevice\bin\Debug\Newtonsoft.Json.xml
+D:\IoT\ZPSVM\SendCloudToDevice\SendCloudToDevice\SendCloudToDevice\bin\Debug\System.Net.Http.Formatting.xml
+D:\IoT\ZPSVM\SendCloudToDevice\SendCloudToDevice\SendCloudToDevice\bin\Debug\System.Web.Http.xml
+D:\IoT\ZPSVM\SendCloudToDevice\SendCloudToDevice\SendCloudToDevice\obj\Debug\SendCloudToDevice.csprojResolveAssemblyReference.cache
+D:\IoT\ZPSVM\demo code\SendCloudToDevice\SendCloudToDevice\SendCloudToDevice\bin\Debug\SendCloudToDevice.exe.config
+D:\IoT\ZPSVM\demo code\SendCloudToDevice\SendCloudToDevice\SendCloudToDevice\obj\Debug\SendCloudToDevice.exe
+D:\IoT\ZPSVM\demo code\SendCloudToDevice\SendCloudToDevice\SendCloudToDevice\obj\Debug\SendCloudToDevice.pdb
+D:\IoT\ZPSVM\demo code\SendCloudToDevice\SendCloudToDevice\SendCloudToDevice\bin\Debug\SendCloudToDevice.exe
+D:\IoT\ZPSVM\demo code\SendCloudToDevice\SendCloudToDevice\SendCloudToDevice\bin\Debug\SendCloudToDevice.pdb
+D:\IoT\ZPSVM\demo code\SendCloudToDevice\SendCloudToDevice\SendCloudToDevice\bin\Debug\Microsoft.Azure.Amqp.dll
+D:\IoT\ZPSVM\demo code\SendCloudToDevice\SendCloudToDevice\SendCloudToDevice\bin\Debug\Microsoft.Azure.Devices.dll
+D:\IoT\ZPSVM\demo code\SendCloudToDevice\SendCloudToDevice\SendCloudToDevice\bin\Debug\Newtonsoft.Json.dll
+D:\IoT\ZPSVM\demo code\SendCloudToDevice\SendCloudToDevice\SendCloudToDevice\bin\Debug\System.Net.Http.Formatting.dll
+D:\IoT\ZPSVM\demo code\SendCloudToDevice\SendCloudToDevice\SendCloudToDevice\bin\Debug\System.Web.Http.dll
+D:\IoT\ZPSVM\demo code\SendCloudToDevice\SendCloudToDevice\SendCloudToDevice\bin\Debug\Microsoft.Azure.Amqp.xml
+D:\IoT\ZPSVM\demo code\SendCloudToDevice\SendCloudToDevice\SendCloudToDevice\bin\Debug\Microsoft.Azure.Devices.xml
+D:\IoT\ZPSVM\demo code\SendCloudToDevice\SendCloudToDevice\SendCloudToDevice\bin\Debug\Newtonsoft.Json.xml
+D:\IoT\ZPSVM\demo code\SendCloudToDevice\SendCloudToDevice\SendCloudToDevice\bin\Debug\System.Net.Http.Formatting.xml
+D:\IoT\ZPSVM\demo code\SendCloudToDevice\SendCloudToDevice\SendCloudToDevice\bin\Debug\System.Web.Http.xml
+D:\IoT\ZPSVM\demo code\SendCloudToDevice\SendCloudToDevice\SendCloudToDevice\obj\Debug\SendCloudToDevice.csprojResolveAssemblyReference.cache

@@ -1,0 +1,17 @@
+D:\IoT\ZPSVM\ConnectLayer\bin\Debug\ConnectLayer.dll
+D:\IoT\ZPSVM\ConnectLayer\bin\Debug\ConnectLayer.pdb
+D:\IoT\ZPSVM\ConnectLayer\bin\Debug\ConnectLayer.pri
+D:\IoT\ZPSVM\ConnectLayer\obj\Debug\ConnectLayer.csprojResolveAssemblyReference.cache
+D:\IoT\ZPSVM\ConnectLayer\obj\Debug\ConnectLayer.dll
+D:\IoT\ZPSVM\ConnectLayer\obj\Debug\ConnectLayer.pdb
+D:\IoT\ZPSVM\ConnectLayer\obj\Debug\priconfig.xml
+D:\IoT\ZPSVM\ConnectLayer\obj\Debug\priconfig.xml.intermediate
+D:\IoT\ZPSVM\ConnectLayer\obj\Debug\layout.resfiles
+D:\IoT\ZPSVM\ConnectLayer\obj\Debug\layout.resfiles.intermediate
+D:\IoT\ZPSVM\ConnectLayer\obj\Debug\resources.resfiles
+D:\IoT\ZPSVM\ConnectLayer\obj\Debug\resources.resfiles.intermediate
+D:\IoT\ZPSVM\ConnectLayer\obj\Debug\pri.resfiles
+D:\IoT\ZPSVM\ConnectLayer\obj\Debug\pri.resfiles.intermediate
+D:\IoT\ZPSVM\ConnectLayer\obj\Debug\qualifiers.txt
+D:\IoT\ZPSVM\ConnectLayer\obj\Debug\qualifiers.txt.intermediate
+D:\IoT\ZPSVM\ConnectLayer\obj\Debug\MultipleQualifiersPerDimensionFound.txt

@@ -1,0 +1,2 @@
+D:\IoT\ZPSVM\ConnectLayer\ConnectLayer.csproj;arm
+D:\IoT\ZPSVM\SmartVendingMachine\SmartVendingMachine.csproj;arm

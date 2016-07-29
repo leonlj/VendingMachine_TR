@@ -1,0 +1,16 @@
+D:\IoT\ZPSVM\ConnectLayer\bin\ARM\Release\ConnectLayer.dll
+D:\IoT\ZPSVM\ConnectLayer\bin\ARM\Release\ConnectLayer.pdb
+D:\IoT\ZPSVM\ConnectLayer\bin\ARM\Release\ConnectLayer.pri
+D:\IoT\ZPSVM\ConnectLayer\obj\ARM\Release\ConnectLayer.dll
+D:\IoT\ZPSVM\ConnectLayer\obj\ARM\Release\ConnectLayer.pdb
+D:\IoT\ZPSVM\ConnectLayer\obj\ARM\Release\priconfig.xml
+D:\IoT\ZPSVM\ConnectLayer\obj\ARM\Release\priconfig.xml.intermediate
+D:\IoT\ZPSVM\ConnectLayer\obj\ARM\Release\layout.resfiles
+D:\IoT\ZPSVM\ConnectLayer\obj\ARM\Release\layout.resfiles.intermediate
+D:\IoT\ZPSVM\ConnectLayer\obj\ARM\Release\resources.resfiles
+D:\IoT\ZPSVM\ConnectLayer\obj\ARM\Release\resources.resfiles.intermediate
+D:\IoT\ZPSVM\ConnectLayer\obj\ARM\Release\pri.resfiles
+D:\IoT\ZPSVM\ConnectLayer\obj\ARM\Release\pri.resfiles.intermediate
+D:\IoT\ZPSVM\ConnectLayer\obj\ARM\Release\qualifiers.txt
+D:\IoT\ZPSVM\ConnectLayer\obj\ARM\Release\qualifiers.txt.intermediate
+D:\IoT\ZPSVM\ConnectLayer\obj\ARM\Release\MultipleQualifiersPerDimensionFound.txt

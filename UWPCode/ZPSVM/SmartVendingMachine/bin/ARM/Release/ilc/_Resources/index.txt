@@ -1,0 +1,2 @@
+Validation, Version=2.0.0.0, Culture=neutral, PublicKeyToken=2fc06f0d701809a7
+  Validation.Strings.resources

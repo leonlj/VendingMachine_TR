@@ -1,0 +1,44 @@
+D:\Case\Lit\我的部分\DeviceTest2\DeviceTest2\bin\Debug\DeviceTest2.exe.config
+D:\Case\Lit\我的部分\DeviceTest2\DeviceTest2\bin\Debug\DeviceTest2.exe
+D:\Case\Lit\我的部分\DeviceTest2\DeviceTest2\bin\Debug\DeviceTest2.pdb
+D:\Case\Lit\我的部分\DeviceTest2\DeviceTest2\bin\Debug\DotNetty.Buffers.dll
+D:\Case\Lit\我的部分\DeviceTest2\DeviceTest2\bin\Debug\DotNetty.Codecs.dll
+D:\Case\Lit\我的部分\DeviceTest2\DeviceTest2\bin\Debug\DotNetty.Codecs.Mqtt.dll
+D:\Case\Lit\我的部分\DeviceTest2\DeviceTest2\bin\Debug\DotNetty.Common.dll
+D:\Case\Lit\我的部分\DeviceTest2\DeviceTest2\bin\Debug\DotNetty.Handlers.dll
+D:\Case\Lit\我的部分\DeviceTest2\DeviceTest2\bin\Debug\DotNetty.Transport.dll
+D:\Case\Lit\我的部分\DeviceTest2\DeviceTest2\bin\Debug\Microsoft.Azure.Amqp.dll
+D:\Case\Lit\我的部分\DeviceTest2\DeviceTest2\bin\Debug\Microsoft.Azure.Devices.Client.dll
+D:\Case\Lit\我的部分\DeviceTest2\DeviceTest2\bin\Debug\Mono.Security.dll
+D:\Case\Lit\我的部分\DeviceTest2\DeviceTest2\bin\Debug\Newtonsoft.Json.dll
+D:\Case\Lit\我的部分\DeviceTest2\DeviceTest2\bin\Debug\PCLCrypto.dll
+D:\Case\Lit\我的部分\DeviceTest2\DeviceTest2\bin\Debug\Validation.dll
+D:\Case\Lit\我的部分\DeviceTest2\DeviceTest2\bin\Debug\Microsoft.Azure.Amqp.xml
+D:\Case\Lit\我的部分\DeviceTest2\DeviceTest2\bin\Debug\Newtonsoft.Json.xml
+D:\Case\Lit\我的部分\DeviceTest2\DeviceTest2\bin\Debug\PCLCrypto.xml
+D:\Case\Lit\我的部分\DeviceTest2\DeviceTest2\bin\Debug\Validation.xml
+D:\Case\Lit\我的部分\DeviceTest2\DeviceTest2\obj\Debug\DeviceTest2.csprojResolveAssemblyReference.cache
+D:\Case\Lit\我的部分\DeviceTest2\DeviceTest2\obj\Debug\DeviceTest2.exe
+D:\Case\Lit\我的部分\DeviceTest2\DeviceTest2\obj\Debug\DeviceTest2.pdb
+D:\IoT\ZPSVM\demo code\DeviceCode(SendRev)\DeviceCode(SendRev)\DeviceTest2\bin\Debug\DeviceTest2.exe.config
+D:\IoT\ZPSVM\demo code\DeviceCode(SendRev)\DeviceCode(SendRev)\DeviceTest2\obj\Debug\DeviceTest2.exe
+D:\IoT\ZPSVM\demo code\DeviceCode(SendRev)\DeviceCode(SendRev)\DeviceTest2\obj\Debug\DeviceTest2.pdb
+D:\IoT\ZPSVM\demo code\DeviceCode(SendRev)\DeviceCode(SendRev)\DeviceTest2\bin\Debug\DeviceTest2.exe
+D:\IoT\ZPSVM\demo code\DeviceCode(SendRev)\DeviceCode(SendRev)\DeviceTest2\bin\Debug\DeviceTest2.pdb
+D:\IoT\ZPSVM\demo code\DeviceCode(SendRev)\DeviceCode(SendRev)\DeviceTest2\bin\Debug\DotNetty.Buffers.dll
+D:\IoT\ZPSVM\demo code\DeviceCode(SendRev)\DeviceCode(SendRev)\DeviceTest2\bin\Debug\DotNetty.Codecs.dll
+D:\IoT\ZPSVM\demo code\DeviceCode(SendRev)\DeviceCode(SendRev)\DeviceTest2\bin\Debug\DotNetty.Codecs.Mqtt.dll
+D:\IoT\ZPSVM\demo code\DeviceCode(SendRev)\DeviceCode(SendRev)\DeviceTest2\bin\Debug\DotNetty.Common.dll
+D:\IoT\ZPSVM\demo code\DeviceCode(SendRev)\DeviceCode(SendRev)\DeviceTest2\bin\Debug\DotNetty.Handlers.dll
+D:\IoT\ZPSVM\demo code\DeviceCode(SendRev)\DeviceCode(SendRev)\DeviceTest2\bin\Debug\DotNetty.Transport.dll
+D:\IoT\ZPSVM\demo code\DeviceCode(SendRev)\DeviceCode(SendRev)\DeviceTest2\bin\Debug\Microsoft.Azure.Amqp.dll
+D:\IoT\ZPSVM\demo code\DeviceCode(SendRev)\DeviceCode(SendRev)\DeviceTest2\bin\Debug\Microsoft.Azure.Devices.Client.dll
+D:\IoT\ZPSVM\demo code\DeviceCode(SendRev)\DeviceCode(SendRev)\DeviceTest2\bin\Debug\Mono.Security.dll
+D:\IoT\ZPSVM\demo code\DeviceCode(SendRev)\DeviceCode(SendRev)\DeviceTest2\bin\Debug\Newtonsoft.Json.dll
+D:\IoT\ZPSVM\demo code\DeviceCode(SendRev)\DeviceCode(SendRev)\DeviceTest2\bin\Debug\PCLCrypto.dll
+D:\IoT\ZPSVM\demo code\DeviceCode(SendRev)\DeviceCode(SendRev)\DeviceTest2\bin\Debug\Validation.dll
+D:\IoT\ZPSVM\demo code\DeviceCode(SendRev)\DeviceCode(SendRev)\DeviceTest2\bin\Debug\Microsoft.Azure.Amqp.xml
+D:\IoT\ZPSVM\demo code\DeviceCode(SendRev)\DeviceCode(SendRev)\DeviceTest2\bin\Debug\Newtonsoft.Json.xml
+D:\IoT\ZPSVM\demo code\DeviceCode(SendRev)\DeviceCode(SendRev)\DeviceTest2\bin\Debug\PCLCrypto.xml
+D:\IoT\ZPSVM\demo code\DeviceCode(SendRev)\DeviceCode(SendRev)\DeviceTest2\bin\Debug\Validation.xml
+D:\IoT\ZPSVM\demo code\DeviceCode(SendRev)\DeviceCode(SendRev)\DeviceTest2\obj\Debug\DeviceTest2.csprojResolveAssemblyReference.cache

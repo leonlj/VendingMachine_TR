@@ -1,0 +1,4 @@
+"/t:System.Object,System.Runtime,json"
+"/t:ConnectLayer.DataEntity.ADinfo,ConnectLayer,json"
+"/t:ConnectLayer.DataEntity.Channelinfo[],ConnectLayer,json"
+"/t:ConnectLayer.RegistResult,ConnectLayer,json"

@@ -1,0 +1,43 @@
+D:\Azure\Lego Project\IoT Hub\ReadDeviceToCloudMessages\ReadDeviceToCloudMessages\bin\Debug\ReadDeviceToCloudMessages.exe.config
+D:\Azure\Lego Project\IoT Hub\ReadDeviceToCloudMessages\ReadDeviceToCloudMessages\bin\Debug\ReadDeviceToCloudMessages.exe
+D:\Azure\Lego Project\IoT Hub\ReadDeviceToCloudMessages\ReadDeviceToCloudMessages\bin\Debug\ReadDeviceToCloudMessages.pdb
+D:\Azure\Lego Project\IoT Hub\ReadDeviceToCloudMessages\ReadDeviceToCloudMessages\bin\Debug\Microsoft.ServiceBus.dll
+D:\Azure\Lego Project\IoT Hub\ReadDeviceToCloudMessages\ReadDeviceToCloudMessages\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+D:\Azure\Lego Project\IoT Hub\ReadDeviceToCloudMessages\ReadDeviceToCloudMessages\bin\Debug\Microsoft.ServiceBus.xml
+D:\Azure\Lego Project\IoT Hub\ReadDeviceToCloudMessages\ReadDeviceToCloudMessages\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+D:\Azure\Lego Project\IoT Hub\ReadDeviceToCloudMessages\ReadDeviceToCloudMessages\obj\Debug\ReadDeviceToCloudMessages.csprojResolveAssemblyReference.cache
+D:\Azure\Lego Project\IoT Hub\ReadDeviceToCloudMessages\ReadDeviceToCloudMessages\obj\Debug\ReadDeviceToCloudMessages.exe
+D:\Azure\Lego Project\IoT Hub\ReadDeviceToCloudMessages\ReadDeviceToCloudMessages\obj\Debug\ReadDeviceToCloudMessages.pdb
+D:\Lego Project\IoT Hub\ReadDeviceToCloudMessages\ReadDeviceToCloudMessages\bin\Debug\ReadDeviceToCloudMessages.exe.config
+D:\Lego Project\IoT Hub\ReadDeviceToCloudMessages\ReadDeviceToCloudMessages\obj\Debug\ReadDeviceToCloudMessages.exe
+D:\Lego Project\IoT Hub\ReadDeviceToCloudMessages\ReadDeviceToCloudMessages\obj\Debug\ReadDeviceToCloudMessages.pdb
+D:\Lego_Project\IoT Hub\ReadDeviceToCloudMessages\ReadDeviceToCloudMessages\bin\Debug\ReadDeviceToCloudMessages.exe.config
+D:\Lego_Project\IoT Hub\ReadDeviceToCloudMessages\ReadDeviceToCloudMessages\obj\Debug\ReadDeviceToCloudMessages.exe
+D:\Lego_Project\IoT Hub\ReadDeviceToCloudMessages\ReadDeviceToCloudMessages\obj\Debug\ReadDeviceToCloudMessages.pdb
+D:\Lego_Project\IoT Hub\ReadDeviceToCloudMessages\ReadDeviceToCloudMessages\bin\Debug\ReadDeviceToCloudMessages.exe
+D:\Lego_Project\IoT Hub\ReadDeviceToCloudMessages\ReadDeviceToCloudMessages\bin\Debug\ReadDeviceToCloudMessages.pdb
+D:\Lego_Project\IoT Hub\ReadDeviceToCloudMessages\ReadDeviceToCloudMessages\bin\Debug\Microsoft.ServiceBus.dll
+D:\Lego_Project\IoT Hub\ReadDeviceToCloudMessages\ReadDeviceToCloudMessages\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+D:\Lego_Project\IoT Hub\ReadDeviceToCloudMessages\ReadDeviceToCloudMessages\bin\Debug\Microsoft.ServiceBus.xml
+D:\Lego_Project\IoT Hub\ReadDeviceToCloudMessages\ReadDeviceToCloudMessages\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+D:\Lego_Project\IoT Hub\ReadDeviceToCloudMessages\ReadDeviceToCloudMessages\obj\Debug\ReadDeviceToCloudMessages.csprojResolveAssemblyReference.cache
+D:\Case\Lit\我的部分\ReadDeviceToCloudMessages\ReadDeviceToCloudMessages\bin\Debug\ReadDeviceToCloudMessages.exe.config
+D:\Case\Lit\我的部分\ReadDeviceToCloudMessages\ReadDeviceToCloudMessages\obj\Debug\ReadDeviceToCloudMessages.exe
+D:\Case\Lit\我的部分\ReadDeviceToCloudMessages\ReadDeviceToCloudMessages\obj\Debug\ReadDeviceToCloudMessages.pdb
+D:\Case\Lit\我的部分\ReadDeviceToCloudMessages\ReadDeviceToCloudMessages\bin\Debug\ReadDeviceToCloudMessages.exe
+D:\Case\Lit\我的部分\ReadDeviceToCloudMessages\ReadDeviceToCloudMessages\bin\Debug\ReadDeviceToCloudMessages.pdb
+D:\Case\Lit\我的部分\ReadDeviceToCloudMessages\ReadDeviceToCloudMessages\bin\Debug\Microsoft.ServiceBus.dll
+D:\Case\Lit\我的部分\ReadDeviceToCloudMessages\ReadDeviceToCloudMessages\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+D:\Case\Lit\我的部分\ReadDeviceToCloudMessages\ReadDeviceToCloudMessages\bin\Debug\Microsoft.ServiceBus.xml
+D:\Case\Lit\我的部分\ReadDeviceToCloudMessages\ReadDeviceToCloudMessages\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+D:\Case\Lit\我的部分\ReadDeviceToCloudMessages\ReadDeviceToCloudMessages\obj\Debug\ReadDeviceToCloudMessages.csprojResolveAssemblyReference.cache
+D:\IoT\ZPSVM\ReadDeviceToCloudMessages\ReadDeviceToCloudMessages\ReadDeviceToCloudMessages\bin\Debug\ReadDeviceToCloudMessages.exe.config
+D:\IoT\ZPSVM\ReadDeviceToCloudMessages\ReadDeviceToCloudMessages\ReadDeviceToCloudMessages\obj\Debug\ReadDeviceToCloudMessages.exe
+D:\IoT\ZPSVM\ReadDeviceToCloudMessages\ReadDeviceToCloudMessages\ReadDeviceToCloudMessages\obj\Debug\ReadDeviceToCloudMessages.pdb
+D:\IoT\ZPSVM\ReadDeviceToCloudMessages\ReadDeviceToCloudMessages\ReadDeviceToCloudMessages\bin\Debug\ReadDeviceToCloudMessages.exe
+D:\IoT\ZPSVM\ReadDeviceToCloudMessages\ReadDeviceToCloudMessages\ReadDeviceToCloudMessages\bin\Debug\ReadDeviceToCloudMessages.pdb
+D:\IoT\ZPSVM\ReadDeviceToCloudMessages\ReadDeviceToCloudMessages\ReadDeviceToCloudMessages\bin\Debug\Microsoft.ServiceBus.dll
+D:\IoT\ZPSVM\ReadDeviceToCloudMessages\ReadDeviceToCloudMessages\ReadDeviceToCloudMessages\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+D:\IoT\ZPSVM\ReadDeviceToCloudMessages\ReadDeviceToCloudMessages\ReadDeviceToCloudMessages\bin\Debug\Microsoft.ServiceBus.xml
+D:\IoT\ZPSVM\ReadDeviceToCloudMessages\ReadDeviceToCloudMessages\ReadDeviceToCloudMessages\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+D:\IoT\ZPSVM\ReadDeviceToCloudMessages\ReadDeviceToCloudMessages\ReadDeviceToCloudMessages\obj\Debug\ReadDeviceToCloudMessages.csprojResolveAssemblyReference.cache

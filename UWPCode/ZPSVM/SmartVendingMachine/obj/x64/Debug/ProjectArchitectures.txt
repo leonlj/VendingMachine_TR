@@ -1,0 +1,2 @@
+C:\Users\leliang\Desktop\VendingMachineCode\UWPCode\ZPSVM\ConnectLayer\ConnectLayer.csproj;x64
+C:\Users\leliang\Desktop\VendingMachineCode\UWPCode\ZPSVM\SmartVendingMachine\SmartVendingMachine.csproj;x64

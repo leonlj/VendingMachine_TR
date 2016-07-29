@@ -1,0 +1,11 @@
+/out:"D:\IoT\ZPSVM\SmartVendingMachine\obj\x86\Release\ilc\intermediate\SgGenerated\\"
+/int:"D:\IoT\ZPSVM\SmartVendingMachine\obj\x86\Release\ilc\intermediate\\"
+/ref:"D:\IoT\ZPSVM\SmartVendingMachine\obj\x86\Release\ilc\intermediate\PreMergeILTransformed\\"
+/ref:"D:\IoT\ZPSVM\SmartVendingMachine\obj\x86\Release\ilc\intermediate\TransformedSRWR\\"
+/ref:"D:\IoT\ZPSVM\SmartVendingMachine\obj\x86\Release\ilc\in\\"
+/ref:"D:\IoT\ZPSVM\SmartVendingMachine\obj\x86\Release\ilc\in\\"
+/ref:"D:\IoT\ZPSVM\SmartVendingMachine\obj\x86\Release\ilc\in\\"
+/ref:"C:\Program Files (x86)\MSBuild\Microsoft\.NetNative\x86\ilc\lib\Private\\"
+/ref:"D:\IoT\ZPSVM\SmartVendingMachine\obj\x86\Release\ilc\in\WinMetadata\\"
+/ca:System.Private.CoreLib
+"@D:\IoT\ZPSVM\SmartVendingMachine\obj\x86\Release\ilc\intermediate\PreMergeILTransformed\ComputedSerializationInput.txt"

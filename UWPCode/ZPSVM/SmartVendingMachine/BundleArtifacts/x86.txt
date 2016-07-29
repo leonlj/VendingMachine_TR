@@ -1,0 +1,2 @@
+MainPackage=D:\IoT\ZPSVM\SmartVendingMachine\bin\x86\Debug\SmartVendingMachine_1.0.0.0_x86_Debug.appx
+SymbolPackage=D:\IoT\ZPSVM\SmartVendingMachine\AppPackages\SmartVendingMachine_1.0.0.0_Debug_Test\SmartVendingMachine_1.0.0.0_x86_Debug.appxsym
